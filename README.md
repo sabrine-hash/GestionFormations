@@ -1,5 +1,0 @@
-# GestionFormations
-
-Nom : 
-Prénom : 
-Groupe : 
